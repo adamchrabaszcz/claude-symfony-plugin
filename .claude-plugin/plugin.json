@@ -1,0 +1,10 @@
+{
+  "name": "symfony-plugin",
+  "description": "Plugin for Claude Symfony tools and agents",
+  "version": "1.0.0",
+  "author": {
+    "name": "Adam Chrabąszcz",
+    "email": "adam@chrabaszcz.pl",
+    "url": "https://github.com/adamchrabaszcz"
+  }
+}
